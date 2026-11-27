@@ -109,6 +109,7 @@ Questions:
 - Ping PC1 to SRV1 result:
 
 ---
+![Network Topology](topology.png)
 
 ## Conclusion
 
